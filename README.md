@@ -1,5 +1,5 @@
 # Diego Benito Sánchez - stratio-certification-use-case
-Final Use Case development from Stratio DataCentric Basics Certification by Diego Benito Sánchez. You can see the online repo [here](https://github.com/dibesa/stratio-certification-use-case)
+Final Use Case development from Stratio DataCentric Basics Certification by Diego Benito Sánchez. You can see the online repo [here](https://github.com/dibesa/stratio-certification-use-case).
 
 ## Description
 
